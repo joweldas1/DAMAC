@@ -1,0 +1,77 @@
+/* Custom styles for Swiper navigation buttons */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #fff; /* Change icon color */
+    background-color: rgba(0, 0, 0, 0.5); /* Background color with transparency */
+    border-radius: 50%; /* Make buttons circular */
+    width: 40px; /* Adjust width */
+    height: 40px; /* Adjust height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Adjust icon size */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 20px;
+}
+
+/* Positioning and hover effects */
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* Darker background on hover */
+}
+
+.swiper-button-next {
+    right: 10px; /* Adjust positioning */
+}
+
+.swiper-button-prev {
+    left: 10px; /* Adjust positioning */
+}
+
+
+
+
+
+/* Swiper pagination customization */
+.swiper-pagination-bullet {
+    background-color: #fff; /* Bullet color */
+    opacity: 0.8; /* Bullet opacity */
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #007aff; /* Active bullet color */
+}
+
+/* Swiper navigation button customization */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #fff; /* Button color */
+    background-color: rgba(0, 0, 0, 0.5); /* Button background color with transparency */
+    border-radius: 50%; /* Circular buttons */
+    width: 40px; /* Button width */
+    height: 40px; /* Button height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 20px; /* Icon size */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* Darker background on hover */
+}
+
+.swiper-button-next {
+    right: 10px; /* Adjust position */
+}
+
+.swiper-button-prev {
+    left: 10px; /* Adjust position */
+}
