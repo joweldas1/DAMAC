@@ -3,9 +3,9 @@
 
 Check out the live version of the project: [Live Demo](https://damac-5412d.web.app)
 
-This frontend project is built using React. Below is an overview of the setup and procedures followed during development.
 
 ## Setup
+This frontend project is built using React. Below is an overview of the setup and procedures followed during development.
 
 1. **React Router DOM**: Installed to facilitate the creation of additional routes as needed.
 2. **CSS Framework**: Primarily used Tailwind CSS or Bootstrap for efficiency, though vanilla CSS was occasionally employed.
