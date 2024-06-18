@@ -1,4 +1,7 @@
 # DAMAC
+## Live Demo
+
+Check out the live version of the project: [Live Demo](https://damac-5412d.web.app)
 
 This frontend project is built using React. Below is an overview of the setup and procedures followed during development.
 
